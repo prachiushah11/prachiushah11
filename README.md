@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Prachi
-- 👀 I’m interested in Data and software, aspiring Business Analyst. Let me know if you have any opportunity for us!
+- 👀 I’m interested in Data and software, aspiring Business Analyst. Let me know if you have any opportunity for me!
 - 🌱 I’m currently learning Software Management, DataBase Design and Data Mining 
-- 💞️ I’m looking to collaborate on Data mining and Advanced Software Design
 - 📫 Reach me at prachiushah11@gmail.com
 
 <!---
